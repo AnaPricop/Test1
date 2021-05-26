@@ -1,0 +1,1 @@
+web: java -Xms4G -Xmx4G -Dserver.port=$PORT -cp target/classes/:"target/dependency/*" IP.DemoApplication
